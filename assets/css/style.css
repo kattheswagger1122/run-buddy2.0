@@ -71,13 +71,13 @@
       }
 
       /* Hero Style Start */
-      .hero {
-        background-image: url("../images/hero-bg.jpg");
-        height: 600px;
-        background-size: cover;
-        background-position: center;
-        position: relative;
-      }
+.hero {
+    background-image: url("../images/hero-bg.jpeg");
+    height: 600px;
+    background-size: cover;
+  background-position: center;
+  position: relative;
+  }
   /* Hero Style End */
 
   .hero-form {
@@ -87,6 +87,6 @@
     width: 500px;
     color: #024e76;
     position: absolute;
-    bottom: 0px;
-    right: 0px;
+    bottom: 120px;
+    right: 140px;
   }
