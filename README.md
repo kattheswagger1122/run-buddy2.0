@@ -1,1 +1,1 @@
-# Run-Buddy2.0
+# run-buddy2.0
