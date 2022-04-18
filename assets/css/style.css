@@ -178,10 +178,15 @@
   /* Trainer Start */
   .trainers {
     text-align: center;
+
+  }
+
+  .trainer {
     width: 900px;
     margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
+    overflow: auto;
   }
 
   .trainer img {
@@ -197,6 +202,10 @@
 
   .text-left {
     text-align: left;
+  }
+
+  .text-right {
+    text-align: right;
   }
  
   .trainer-bio h3 {
